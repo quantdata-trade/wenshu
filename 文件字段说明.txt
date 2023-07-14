@@ -26,35 +26,5 @@
    "ayTree":"自生成的案由路径",
    "fyTree":"自生成的法院地区路径",
 
-法律法规字段说明
-    "Title":"标题",
-    "IssueDepartment":"发布部门",
-    "RatifyDepartment":"批准部门",
-    "DocumentNO":"发文字号",
-    "RatifyDate":"批准日期",
-    "IssueDate":"发布日期",
-    "ImplementDate":"实施日期",
-    "TimelinessDic":"时效性",
-    "InvalidBasis":"失效依据",
-    "EffectivenessDic":"效力级别",
-    "Category":"法规类别",
-    "Keywords":"关键词",
-    "TopicType":"专题分类",
-    "AllText":"正文",
-
-行政处罚字段说明
-    "Title":"标题",
-    "DocumentNO":"发文案号",
-    "PunishmentDate":"处罚日期",
-    "PunishmentObject":"处罚对象",
-    "EnforcementLevel":"执法级别",
-    "LawRegional":"执法地域",
-    "LawDepartment":"执法机关",
-    "PunishmentTarget":"处罚对象分类",
-    "PunishmentType":"处罚种类",
-    "AccordingLaw":"处罚依据",
-    "Category":"主题分类",
-    "AllText":"正文",
-
 数据来源 https://github.com/quantdata-trade/wenshu
 微信 newnurdle
