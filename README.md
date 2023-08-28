@@ -21,6 +21,6 @@
 ---- s41被禁，接口搜索1000条被禁
 
 
-1.4亿，数据服务，可以提供json、csv、mongodb数据库搭建导入
+1.4亿，数据服务，可以提供json、csv文件，可提供mongodb数据库搭建导入
 
 vx:newnurdle 备注来意
